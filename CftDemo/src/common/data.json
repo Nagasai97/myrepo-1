@@ -1,0 +1,71 @@
+      [{
+              "Month": "January",
+              "revenue": 120,
+              "expenses": 30,
+              "name": "Turmeric",
+              "color": "#FF6363",
+              "legendFontColor": "#7F7F7F",
+              "legendFontSize": 15,
+              "profits": 60
+          },
+          {
+              "Month": "February",
+              "revenue": 180,
+              "expenses": 30,
+              "name": "Cosmetics",
+              "color": "#FFAB76",
+              "legendFontColor": "#7F7F7F",
+              "legendFontSize": 15,
+              "profits": 90
+          },
+          {
+              "Month": "March",
+              "revenue": 150,
+              "expenses": 30,
+              "name": "Soft Drinks",
+              "color": "#FFFDA2",
+              "legendFontColor": "#7F7F7F",
+              "legendFontSize": 15,
+              "profits": 120
+          },
+          {
+              "Month": "April",
+              "revenue": 180,
+              "expenses": 30,
+              "name": "Groceries",
+              "color": "#FF008E",
+              "legendFontColor": "#7F7F7F",
+              "legendFontSize": 15,
+              "profits": 150
+          },
+          {
+              "Month": "May",
+              "revenue": 208,
+              "expenses": 30,
+              "name": "Gadgets",
+              "color": "rgba(131, 167, 234, 1)",
+              "legendFontColor": "#7F7F7F",
+              "legendFontSize": 15,
+              "profits": 180
+          },
+          {
+              "Month": "June",
+              "revenue": 240,
+              "expenses": 30,
+              "name": "Mobiles",
+              "color": "#F00",
+              "legendFontColor": "#7F7F7F",
+              "legendFontSize": 15,
+              "profits": 210
+          },
+          {
+              "Month": "July",
+              "revenue": 210,
+              "expenses": 30,
+              "name": "Furniture",
+              "color": "rgba(131, 250, 234, 1)",
+              "legendFontColor": "#CECECE",
+              "legendFontSize": 15,
+              "profits": 240
+          }
+      ]
